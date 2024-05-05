@@ -1,5 +1,5 @@
 body {
-    background-image: url('/wall2.jpeg');
+    background-image: url('wall2.jpeg');
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -46,7 +46,7 @@ body {
 }
 
 .barra_lateral button.btnHome {
-    background-image: url('/Home.png');
+    background-image: url('Home.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center left;
@@ -54,7 +54,7 @@ body {
 
 
 .barra_lateral button.btnAnterior {
-    background-image: url('/Flecha_Izq.png');
+    background-image: url('Flecha_Izq.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center left;

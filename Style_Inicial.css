@@ -63,7 +63,7 @@ body {
 }
 
 .barra_lateral button.btnInicio {
-    background-image: url('/btnEnter.png');
+    background-image: url('btnEnter.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center; /* Centra la imagen dentro del botón */
